@@ -1,0 +1,6 @@
+LICENSE
+setup.py
+DeepEL.egg-info/PKG-INFO
+DeepEL.egg-info/SOURCES.txt
+DeepEL.egg-info/dependency_links.txt
+DeepEL.egg-info/top_level.txt
